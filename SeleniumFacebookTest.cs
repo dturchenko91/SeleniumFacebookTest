@@ -1,4 +1,4 @@
-# SeleniumFacebookTest
+//# SeleniumFacebookTest
 //A short and dirty selenium automation to create a facebook status and change its visibility
 
 //Insert your own username and password into the username and password variables
